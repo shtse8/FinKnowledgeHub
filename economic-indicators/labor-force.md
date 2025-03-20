@@ -1,158 +1,158 @@
-# Unemployment Rate
+# Labor Force
 
-The Unemployment Rate is a critical economic indicator that measures the percentage of the labor force that is unemployed but actively seeking employment. This indicator is fundamental for understanding labor market conditions, economic health, and social well-being, making it one of the most closely watched economic metrics by policymakers, investors, and the public.
+The Labor Force is a fundamental economic indicator that measures the total number of people who are either employed or actively seeking employment. This indicator is crucial for understanding workforce dynamics, economic potential, and structural changes in the economy, making it essential for policymakers, economists, and investors.
 
 ## Historical Background
 
 ### Origins and Development
 
-The measurement of unemployment has evolved significantly:
+The measurement of labor force has evolved significantly:
 
-- **1880s**: Census estimates
-- **1930s**: Great Depression tracking
-- **1940s**: Statistical methods
-- **1950s**: Standardized surveys
-- **1960s**: Computer analysis
-- **1970s**: Expanded coverage
-- **1980s**: State programs
-- **1990s**: Electronic reporting
-- **2000s**: Real-time tracking
-- **Present**: Advanced analytics
+- **1880s**: Census-based counts
+- **1930s**: Regular surveys begin
+- **1940s**: Statistical sampling
+- **1950s**: Standardized definitions
+- **1960s**: Computer processing
+- **1970s**: Expanded demographics
+- **1980s**: Household surveys
+- **1990s**: Electronic collection
+- **2000s**: Online reporting
+- **Present**: Real-time tracking
 
-The evolution reflects growing sophistication in measuring joblessness.
+The evolution reflects growing sophistication in measuring workforce participation.
 
 ## Calculation Methodology
 
 ### Data Collection
 
-Unemployment data is gathered through multiple sources:
+Labor force data is gathered through multiple sources:
 
 1. **Primary Sources**:
    - Household surveys
    - Business surveys
    - Government records
-   - State agencies
-   - Claims offices
-   - Employment centers
    - Census data
    - Administrative files
+   - Employment offices
+   - Education records
+   - Immigration data
 
 2. **Population Components**:
-   - Labor force
-   - Employment status
-   - Job search activity
+   - Age groups
+   - Gender
+   - Education level
    - Geographic location
    - Industry sector
    - Occupation type
-   - Duration status
-   - Reason for unemployment
+   - Work status
+   - Immigration status
 
 3. **Administrative Records**:
-   - Unemployment claims
    - Social security
    - Tax records
-   - State benefits
-   - Federal programs
-   - Training programs
-   - Education records
-   - Employment services
+   - Visa data
+   - Education files
+   - Military records
+   - Government employment
+   - State records
+   - Local data
 
 ### Calculation Approach
 
-Unemployment statistics are analyzed through a comprehensive process:
+Labor force statistics are analyzed through a comprehensive process:
 
-1. **Rate Components**:
-   - **Labor Force**: Population base
-   - **Unemployed**: Job seekers
-   - **Duration**: Time unemployed
-   - **Geography**: Location spread
-   - **Industry**: Sector mix
+1. **Population Components**:
+   - **Working Age**: Population base
+   - **Participation**: Activity rates
+   - **Employment**: Work status
    - **Demographics**: Population mix
-   - **Reason**: Cause of unemployment
-   - **Search**: Job-seeking activity
+   - **Geography**: Location spread
+   - **Education**: Skill levels
+   - **Industry**: Sector mix
+   - **Occupation**: Job types
 
 2. **Adjustments**:
    - **Seasonal**: Remove patterns
    - **Population**: Growth factors
-   - **Geographic**: Regional factors
+   - **Migration**: Flow effects
+   - **Education**: Level changes
    - **Industry**: Sector shifts
-   - **Duration**: Time patterns
-   - **Demographics**: Population effects
-   - **Classification**: Status updates
+   - **Geographic**: Regional factors
+   - **Demographic**: Age effects
    - **Revisions**: Data updates
 
 3. **Rate Calculations**:
-   - Basic rate
-   - Alternative measures
-   - Duration rates
+   - Participation rates
+   - Employment rates
+   - Activity rates
    - Demographic rates
    - Geographic rates
-   - Industry rates
-   - Reason rates
+   - Sector rates
+   - Skill rates
    - Change rates
 
 ### Variations and Categories
 
-Key variations of unemployment rate include:
+Key variations of labor force data include:
 
-- **U-3 Rate**: Official rate
-- **U-6 Rate**: Broader measure
-- **Long-term**: Extended duration
-- **Youth Rate**: Young workers
-- **Industry Rate**: Sector specific
-- **State Rate**: Geographic area
-- **Demographic Rate**: Population group
-- **Reason Rate**: Cause specific
+- **Total Force**: All participants
+- **Civilian Force**: Non-military
+- **Armed Forces**: Military personnel
+- **Institutional**: Group quarters
+- **Age Groups**: Demographic segments
+- **Education Levels**: Skill categories
+- **Geographic Areas**: Location groups
+- **Industry Sectors**: Economic segments
 
 ## Interpretation and Analysis
 
 ### Basic Interpretation
 
-Unemployment rate data provides crucial insights:
+Labor force data provides crucial insights:
 
 - **Month-over-Month Change**:
-  - Rate movement
+  - Force growth
   - Seasonal patterns
-  - Trend direction
+  - Participation shifts
 
 - **Year-over-Year Change**:
   - Long-term trends
   - Cyclical patterns
   - Structural changes
 
-- **Rate Levels**:
-  - Current position
-  - Historical context
-  - Comparative analysis
+- **Force Levels**:
+  - Total participation
+  - Demographic mix
+  - Geographic spread
 
 - **Component Analysis**:
-  - Duration patterns
-  - Demographic trends
-  - Geographic spread
-  - Industry mix
+  - Population groups
+  - Activity patterns
+  - Geographic trends
+  - Sector mix
 
 ### Advanced Analysis Techniques
 
 #### Component Analysis
-- **Duration Mix**: Time patterns
+- **Population Mix**: Demographic types
 - **Industry Trends**: Sector patterns
 - **Geographic Patterns**: Regional data
-- **Demographic Analysis**: Population groups
-- **Reason Analysis**: Cause patterns
+- **Education Analysis**: Skill levels
+- **Occupation Analysis**: Job types
 
 #### Relationship to Other Indicators
+- **Employment**: Job market
 - **GDP Growth**: Economic output
-- **Inflation**: Price pressure
+- **Productivity**: Output efficiency
 - **Wages**: Labor costs
-- **Job Openings**: Labor demand
-- **Claims**: Unemployment insurance
+- **Population**: Demographics
 
 #### Distributional Analysis
-- **Duration Groups**: Time patterns
+- **Age Groups**: Demographic patterns
 - **Geographic Areas**: Regional trends
-- **Industry Groups**: Sector patterns
-- **Demographic Groups**: Population trends
-- **Reason Categories**: Cause patterns
+- **Education Levels**: Skill patterns
+- **Industry Groups**: Sector trends
+- **Occupation Types**: Job patterns
 
 ## Implications for Financial Markets
 
@@ -179,19 +179,19 @@ Unemployment rate data provides crucial insights:
 
 ### Market Reactions to Releases
 
-Unemployment reports typically trigger market responses:
+Labor force reports typically trigger market responses:
 
 - **Higher-Than-Expected**:
+  - Growth expectations
+  - Inflation concerns
+  - Rate pressure
+  - Currency strength
+
+- **Lower-Than-Expected**:
   - Growth concerns
   - Policy support
   - Rate stability
-  - Risk aversion
-
-- **Lower-Than-Expected**:
-  - Growth confidence
-  - Policy tightening
-  - Rate pressure
-  - Risk appetite
+  - Currency weakness
 
 - **Structural Changes**:
   - Long-term trends
@@ -202,7 +202,7 @@ Unemployment reports typically trigger market responses:
 
 ### Monetary Policy
 
-Central banks monitor unemployment for policy decisions:
+Central banks monitor labor force for policy decisions:
 
 - **Interest Rates**: Economic conditions
 - **Money Supply**: Growth support
@@ -213,44 +213,44 @@ Central banks monitor unemployment for policy decisions:
 
 ### Fiscal Policy
 
-Government policy responds to unemployment trends:
+Government policy responds to labor force trends:
 
-- **Benefits Policy**: Support levels
-- **Training Programs**: Skills development
-- **Job Support**: Employment aid
+- **Education Policy**: Skills development
+- **Immigration Policy**: Population flows
+- **Training Programs**: Skill enhancement
 - **Infrastructure**: Public works
-- **Tax Policy**: Revenue measures
 - **Social Programs**: Support systems
+- **Tax Policy**: Revenue measures
 
-## Unemployment Across Countries
+## Labor Force Across Countries
 
 ### International Comparison
 
-Major economies measure unemployment differently:
+Major economies measure labor force differently:
 
 - **United States**: CPS system
 - **European Union**: LFS system
 - **United Kingdom**: LMS system
-- **Japan**: LFS system
+- **Japan**: LSMS system
 - **Canada**: LFS system
 - **Australia**: LFS system
 
 Key differences in measurement:
 - **Survey Methods**: Collection approaches
 - **Population Coverage**: Measurement scope
-- **Activity Criteria**: Job search rules
-- **Duration Rules**: Time criteria
-- **Classification**: Status definitions
-- **Publication**: Release timing
+- **Age Definitions**: Working age
+- **Activity Criteria**: Participation rules
+- **Frequency**: Measurement timing
+- **Publication**: Release schedule
 
 ### Cultural and Structural Differences
 
-Unemployment patterns vary across countries due to:
+Labor force patterns vary across countries due to:
 
 - **Economic Development**: Growth stage
-- **Labor Laws**: Work rules
-- **Benefits**: Support levels
+- **Demographics**: Population mix
 - **Education**: Skill levels
+- **Immigration**: Population flows
 - **Technology**: Digital adoption
 - **Geography**: Physical factors
 - **Culture**: Work norms
@@ -262,17 +262,17 @@ Unemployment patterns vary across countries due to:
 
 ### Measurement Challenges
 
-Unemployment data faces several limitations:
+Labor force data faces several limitations:
 
 - **Survey Timing**: Collection period
 - **Response Rates**: Sample coverage
-- **Classification**: Status types
+- **Classification**: Activity types
 - **Informal Work**: Underground economy
-- **Discouraged Workers**: Search cessation
 - **Geographic Coverage**: Regional gaps
-- **Duration Measurement**: Time tracking
-- **Search Criteria**: Activity rules
-- **Benefit Impact**: Program effects
+- **Demographic Coverage**: Population segments
+- **Activity Definition**: Work criteria
+- **Data Quality**: Collection accuracy
+- **Methodology**: Measurement approach
 - **System Changes**: Method updates
 
 ### Alternative Measures
@@ -280,22 +280,22 @@ Unemployment data faces several limitations:
 Several complementary indicators provide additional insights:
 
 - **Employment**: Work status
-- **Labor Force**: Population base
-- **Job Openings**: Labor demand
-- **Claims**: Benefit applications
-- **Wages**: Labor costs
-- **Hours Worked**: Labor utilization
+- **Unemployment**: Job seeking
 - **Participation**: Activity rates
+- **Population**: Demographics
+- **Migration**: Population flows
+- **Education**: Skill levels
+- **Productivity**: Output efficiency
+- **Wages**: Labor costs
+- **Job Openings**: Labor demand
 - **Quit Rates**: Job mobility
-- **Skills Gap**: Labor mismatch
-- **Underemployment**: Partial work
 
 ## Best Practices for Investors
 
-### Using Unemployment in Investment Decisions
+### Using Labor Force in Investment Decisions
 
-- **Monitor Trends**: Rate patterns
-- **Analyze Components**: Status mix
+- **Monitor Trends**: Force patterns
+- **Analyze Components**: Population mix
 - **Track Changes**: Movement direction
 - **Watch Levels**: Absolute position
 - **Evaluate Context**: Economic conditions
@@ -305,7 +305,7 @@ Several complementary indicators provide additional insights:
 - **Check Markets**: Price reactions
 - **Review Research**: Expert analysis
 
-### Unemployment Investment Strategies
+### Labor Force Investment Strategies
 
 - **Sector Selection**: Industry focus
 - **Geographic Allocation**: Regional exposure
@@ -322,39 +322,39 @@ Several complementary indicators provide additional insights:
 
 ### Official Sources
 
-- **Labor Statistics**: [Unemployment Data](https://www.bls.gov)
+- **Labor Statistics**: [Labor Data](https://www.bls.gov)
+- **Census Bureau**: [Population Data](https://www.census.gov)
 - **Federal Reserve**: [Economic Data](https://www.federalreserve.gov)
-- **State Agencies**: [Local Data](https://www.state.gov)
 - **World Bank**: [Global Data](https://www.worldbank.org)
 - **OECD**: [International Data](https://www.oecd.org)
 
 ### Release Schedule and Calendar
 
 - **Monthly Reports**: Regular updates
-- **State Reports**: Local data
 - **Quarterly Reviews**: Detailed analysis
 - **Annual Studies**: Comprehensive reports
 - **Special Reports**: Focused analysis
+- **Research Papers**: Academic studies
 
 ## Historical Trends and Case Studies
 
 ### Notable Episodes
 
-- **Great Depression (1930s)**: Mass unemployment
-- **Post-War Era (1950s)**: Full employment
-- **Stagflation (1970s)**: High unemployment
-- **Volcker Era (1980s)**: Rate spike
-- **Tech Boom (1990s)**: Low unemployment
-- **Financial Crisis (2008)**: Rate surge
-- **COVID-19 (2020)**: Record spike
-- **Recovery (2021)**: Rate decline
+- **Post-War Boom (1950s)**: Rapid growth
+- **Women's Entry (1960s)**: Gender shift
+- **Baby Boom (1970s)**: Demographic wave
+- **Technology Era (1990s)**: Skill premium
+- **Great Recession (2008)**: Participation drop
+- **COVID-19 (2020)**: Remote work
+- **Recovery (2021)**: New patterns
+- **Future Trends**: Emerging shifts
 
 ### Structural Changes
 
 - **Demographics**: Population aging
 - **Technology**: Digital skills
 - **Education**: Higher requirements
-- **Globalization**: Job competition
+- **Globalization**: International competition
 - **Services**: Sector shift
 - **Remote Work**: Location flexibility
 - **Gig Economy**: Work patterns
@@ -375,8 +375,8 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 
-class UnemploymentAnalyzer:
-    """Class for downloading, analyzing and visualizing unemployment rate data"""
+class LaborForceAnalyzer:
+    """Class for downloading, analyzing and visualizing labor force data"""
     
     def __init__(self, fred_api_key=None):
         """
@@ -389,81 +389,81 @@ class UnemploymentAnalyzer:
         if fred_api_key:
             self.fred = fred.Fred(api_key=fred_api_key)
     
-    def get_unemployment_data(self, measure='u3', start_date='1992-01-01', end_date=None):
+    def get_labor_force_data(self, measure='total', start_date='1992-01-01', end_date=None):
         """
-        Retrieve unemployment rate data from FRED
+        Retrieve labor force data from FRED
         
         Parameters:
-        measure (str): Type of unemployment rate ('u3', 'u6', 'state', etc.)
+        measure (str): Type of labor force data ('total', 'civilian', 'participation', etc.)
         start_date (str): Start date in YYYY-MM-DD format
         end_date (str): End date in YYYY-MM-DD format
         
         Returns:
-        pd.DataFrame: Unemployment rate time series data
+        pd.DataFrame: Labor force time series data
         """
         if not self.fred_api_key:
             raise ValueError("FRED API key required for data download")
             
-        # Series IDs for different unemployment measures
+        # Series IDs for different labor force measures
         series_mapping = {
-            'u3': 'UNRATE',       # Official Unemployment Rate
-            'u6': 'U6RATE',       # U6 Unemployment Rate
-            'long': 'LNS13025703', # Long-term Unemployment Rate
-            'youth': 'LNS14024887', # Youth Unemployment Rate
-            'men': 'LNS14000001',  # Men Unemployment Rate
-            'women': 'LNS14000002' # Women Unemployment Rate
+            'total': 'CLF16OV',      # Civilian Labor Force
+            'participation': 'CIVPART',   # Civilian Labor Force Participation Rate
+            'employment': 'CE16OV',    # Civilian Employment
+            'population': 'CNP16OV',   # Civilian Noninstitutional Population
+            'men': 'LNS11000001',     # Men in Labor Force
+            'women': 'LNS11000002'    # Women in Labor Force
         }
         
         if measure not in series_mapping:
             raise ValueError(f"Measure '{measure}' not supported")
         
-        # Fetch unemployment data
-        unemployment_data = self.fred.get_series(series_mapping[measure], start_date, end_date)
-        unemployment_df = pd.DataFrame(unemployment_data, columns=['Unemployment_Rate'])
-        unemployment_df.index.name = 'Date'
+        # Fetch labor force data
+        labor_data = self.fred.get_series(series_mapping[measure], start_date, end_date)
+        labor_df = pd.DataFrame(labor_data, columns=['Labor_Force'])
+        labor_df.index.name = 'Date'
         
-        return unemployment_df
+        return labor_df
     
     def get_multiple_measures(self, measures=None, start_date='1992-01-01', end_date=None):
         """
-        Retrieve multiple unemployment measures and combine into a single DataFrame
+        Retrieve multiple labor force measures and combine into a single DataFrame
         
         Parameters:
-        measures (list): List of unemployment measures to retrieve
+        measures (list): List of labor force measures to retrieve
         start_date (str): Start date
         end_date (str): End date
         
         Returns:
-        pd.DataFrame: DataFrame with multiple unemployment measures
+        pd.DataFrame: DataFrame with multiple labor force measures
         """
         if measures is None:
             # Default to main measures
-            measures = ['u3', 'u6', 'long', 'youth']
+            measures = ['total', 'participation', 'employment', 'population']
         
         # Initialize with first measure
-        result_df = self.get_unemployment_data(measures[0], start_date, end_date)
+        result_df = self.get_labor_force_data(measures[0], start_date, end_date)
         result_df.columns = [measures[0]]
         
         # Add additional measures
         for measure in measures[1:]:
-            measure_df = self.get_unemployment_data(measure, start_date, end_date)
-            result_df[measure] = measure_df['Unemployment_Rate']
+            measure_df = self.get_labor_force_data(measure, start_date, end_date)
+            result_df[measure] = measure_df['Labor_Force']
         
         return result_df
     
-    def calculate_changes(self, unemployment_data, periods=[1, 3, 12]):
+    def calculate_changes(self, labor_data, periods=[1, 3, 12]):
         """
         Calculate changes over different periods
         
         Parameters:
-        unemployment_data (pd.DataFrame): DataFrame with unemployment values
+        labor_data (pd.DataFrame): DataFrame with labor force values
         periods (list): List of periods for calculating changes
         
         Returns:
         pd.DataFrame: Original data with changes added
         """
-        df = unemployment_data.copy()
-        column = df.columns[0] if isinstance(df.columns, pd.Index) else 'Unemployment_Rate'
+        df = labor_data.copy()
+        column = df.columns[0] if isinstance(df.columns, pd.Index) else 'Labor_Force'
         
         # Calculate changes for each period
         for period in periods:
@@ -473,49 +473,46 @@ class UnemploymentAnalyzer:
         
         return df
     
-    def calculate_natural_rate(self, unemployment_data, window=60):
+    def calculate_participation_rate(self, labor_force, population, start_date='1992-01-01'):
         """
-        Calculate natural rate of unemployment using moving average
+        Calculate participation rate from labor force and population data
         
         Parameters:
-        unemployment_data (pd.DataFrame): DataFrame with unemployment values
-        window (int): Window size for moving average
+        labor_force (pd.DataFrame): DataFrame with labor force values
+        population (pd.DataFrame): DataFrame with population values
+        start_date (str): Start date for analysis
         
         Returns:
-        dict: Natural rate analysis results and visualization
+        dict: Participation rate analysis results and visualization
         """
         # Extract data series
-        rate_col = unemployment_data.columns[0] if isinstance(unemployment_data.columns, pd.Index) else 'Unemployment_Rate'
-        series = unemployment_data[rate_col]
-        
-        # Calculate natural rate (moving average)
-        natural_rate = series.rolling(window=window, center=True).mean()
-        
-        # Calculate gap
-        unemployment_gap = series - natural_rate
+        force_col = labor_force.columns[0] if isinstance(labor_force.columns, pd.Index) else 'Labor_Force'
+        pop_col = population.columns[0] if isinstance(population.columns, pd.Index) else 'Population'
         
         # Create analysis DataFrame
         df = pd.DataFrame({
-            'Unemployment_Rate': series,
-            'Natural_Rate': natural_rate,
-            'Unemployment_Gap': unemployment_gap
+            'Labor_Force': labor_force[force_col],
+            'Population': population[pop_col]
         })
         
+        # Calculate participation rate
+        df['Participation_Rate'] = (df['Labor_Force'] / df['Population']) * 100
+        
         # Calculate basic statistics
-        stats = df['Unemployment_Gap'].describe()
+        stats = df['Participation_Rate'].describe()
         
         # Create visualization
         plt.figure(figsize=(14, 7))
-        plt.plot(df.index, df['Unemployment_Rate'], 'b-', label='Unemployment Rate')
-        plt.plot(df.index, df['Natural_Rate'], 'r--', label='Natural Rate')
+        plt.plot(df.index, df['Participation_Rate'], 'b-', label='Participation Rate')
+        plt.axhline(y=stats['mean'], color='r', linestyle='--', label='Mean')
         plt.fill_between(df.index, 
-                        df['Natural_Rate'] - df['Unemployment_Gap'].std(),
-                        df['Natural_Rate'] + df['Unemployment_Gap'].std(),
+                        stats['mean'] - stats['std'],
+                        stats['mean'] + stats['std'],
                         alpha=0.2, color='gray', label='±1 Std Dev')
         
-        plt.title('Unemployment Rate and Natural Rate Analysis', fontsize=16)
+        plt.title('Labor Force Participation Rate Analysis', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Rate (%)', fontsize=12)
+        plt.ylabel('Participation Rate (%)', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend()
         
@@ -525,21 +522,21 @@ class UnemploymentAnalyzer:
             'plot': plt
         }
     
-    def decompose_unemployment_trends(self, unemployment_data, period=12, model='additive'):
+    def decompose_labor_trends(self, labor_data, period=12, model='additive'):
         """
-        Decompose unemployment data into trend, seasonal, and residual components
+        Decompose labor force data into trend, seasonal, and residual components
         
         Parameters:
-        unemployment_data (pd.DataFrame): DataFrame with unemployment data
+        labor_data (pd.DataFrame): DataFrame with labor force data
         period (int): Period for seasonal component (12 for monthly data)
         model (str): Decomposition model ('additive' or 'multiplicative')
         
         Returns:
         dict: Components and plot of decomposition
         """
-        # Extract unemployment series
-        unemployment_col = unemployment_data.columns[0] if isinstance(unemployment_data.columns, pd.Index) else 'Unemployment_Rate'
-        series = unemployment_data[unemployment_col].dropna()
+        # Extract labor force series
+        labor_col = labor_data.columns[0] if isinstance(labor_data.columns, pd.Index) else 'Labor_Force'
+        series = labor_data[labor_col].dropna()
         
         # Perform decomposition
         decomposition = seasonal_decompose(series, model=model, period=period)
@@ -556,16 +553,16 @@ class UnemploymentAnalyzer:
         fig, axes = plt.subplots(4, 1, figsize=(14, 10), sharex=True)
         
         components_df['Observed'].plot(ax=axes[0], title='Observed')
-        axes[0].set_ylabel('Rate')
+        axes[0].set_ylabel('Labor Force')
         
         components_df['Trend'].plot(ax=axes[1], title='Trend')
-        axes[1].set_ylabel('Rate')
+        axes[1].set_ylabel('Labor Force')
         
         components_df['Seasonal'].plot(ax=axes[2], title='Seasonal')
         axes[2].set_ylabel('Factor')
         
         components_df['Residual'].plot(ax=axes[3], title='Residual')
-        axes[3].set_ylabel('Rate')
+        axes[3].set_ylabel('Labor Force')
         
         plt.tight_layout()
         
@@ -574,12 +571,12 @@ class UnemploymentAnalyzer:
             'plot': fig
         }
     
-    def forecast_unemployment(self, unemployment_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
+    def forecast_labor_force(self, labor_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
         """
-        Forecast unemployment rate using SARIMA model
+        Forecast labor force using SARIMA model
         
         Parameters:
-        unemployment_data (pd.DataFrame): DataFrame with unemployment data
+        labor_data (pd.DataFrame): DataFrame with labor force data
         periods (int): Number of periods to forecast
         order (tuple): ARIMA order (p,d,q)
         seasonal_order (tuple): Seasonal ARIMA order (P,D,Q,s)
@@ -587,9 +584,9 @@ class UnemploymentAnalyzer:
         Returns:
         dict: Forecast data and visualization
         """
-        # Extract unemployment series
-        unemployment_col = unemployment_data.columns[0] if isinstance(unemployment_data.columns, pd.Index) else 'Unemployment_Rate'
-        series = unemployment_data[unemployment_col].dropna()
+        # Extract labor force series
+        labor_col = labor_data.columns[0] if isinstance(labor_data.columns, pd.Index) else 'Labor_Force'
+        series = labor_data[labor_col].dropna()
         
         # Fit SARIMA model
         model = SARIMAX(series, 
@@ -641,9 +638,9 @@ class UnemploymentAnalyzer:
         if isinstance(forecast_index, pd.DatetimeIndex):
             plt.axvspan(forecast_index[0], forecast_index[-1], alpha=0.1, color='gray')
         
-        plt.title('Unemployment Rate: Historical and Forecast', fontsize=16)
+        plt.title('Labor Force: Historical and Forecast', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Rate (%)', fontsize=12)
+        plt.ylabel('Labor Force Level (Thousands)', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend()
         
@@ -657,7 +654,7 @@ class UnemploymentAnalyzer:
     
     def demographic_analysis(self, start_date='1992-01-01'):
         """
-        Analyze unemployment rates by demographic groups
+        Analyze the composition of labor force by demographic groups
         
         Parameters:
         start_date (str): Start date for analysis
@@ -667,13 +664,13 @@ class UnemploymentAnalyzer:
         """
         # Get demographic groups
         groups = {
-            'Total': 'UNRATE',       # Total Unemployment Rate
-            'Men': 'LNS14000001',    # Men
-            'Women': 'LNS14000002',  # Women
-            'Age_16_19': 'LNS14000012',  # Age 16-19
-            'Age_20_24': 'LNS14000013',  # Age 20-24
-            'Age_25_54': 'LNS14000060',  # Age 25-54
-            'Age_55_over': 'LNS14000024'  # Age 55 and over
+            'Total': 'CLF16OV',      # Total Labor Force
+            'Men': 'LNS11000001',    # Men
+            'Women': 'LNS11000002',  # Women
+            'Age_16_19': 'LNS11000012',  # Age 16-19
+            'Age_20_24': 'LNS11000013',  # Age 20-24
+            'Age_25_54': 'LNS11000060',  # Age 25-54
+            'Age_55_over': 'LNS11000024'  # Age 55 and over
         }
         
         # Fetch demographic data
@@ -692,15 +689,15 @@ class UnemploymentAnalyzer:
         # Create correlation heatmap
         plt.figure(figsize=(10, 8))
         sns.heatmap(correlations, annot=True, cmap='coolwarm', center=0)
-        plt.title('Correlation Matrix of Unemployment Demographics', fontsize=16)
+        plt.title('Correlation Matrix of Labor Force Demographics', fontsize=16)
         plt.tight_layout()
         
         # Create line plot of demographics
         plt.figure(figsize=(14, 8))
         demographic_data.plot(alpha=0.7)
-        plt.title('Unemployment Rate by Demographic Group', fontsize=16)
+        plt.title('Labor Force by Demographic Group', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Rate (%)', fontsize=12)
+        plt.ylabel('Labor Force Level (Thousands)', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.tight_layout()
@@ -713,22 +710,22 @@ class UnemploymentAnalyzer:
         }
 
 # Example usage:
-# analyzer = UnemploymentAnalyzer(fred_api_key="your_api_key_here")
-# unemployment_data = analyzer.get_unemployment_data()
-# changes_data = analyzer.calculate_changes(unemployment_data)
-# decomposition = analyzer.decompose_unemployment_trends(unemployment_data)
+# analyzer = LaborForceAnalyzer(fred_api_key="your_api_key_here")
+# labor_data = analyzer.get_labor_force_data()
+# changes_data = analyzer.calculate_changes(labor_data)
+# decomposition = analyzer.decompose_labor_trends(labor_data)
 # plt.show()
 ```
 
 ## Related Economic Indicators
 
-- [Labor Force](./labor-force.md)
 - [Employment Situation](./employment-situation.md)
+- [Unemployment Rate](./unemployment-rate.md)
 - [Job Openings](./job-openings.md)
-- [Initial Claims](./initial-claims.md)
+- [Population Growth](./population-growth.md)
 - [GDP Growth](./gdp-growth.md)
-- [Wage Growth](./wage-growth.md)
-- [Consumer Confidence](./consumer-confidence.md)
-- [Inflation Rate](./inflation-rate.md)
 - [Productivity](./productivity.md)
-- [Business Conditions](./business-conditions.md)
+- [Wage Growth](./wage-growth.md)
+- [Education Statistics](./education-statistics.md)
+- [Immigration Statistics](./immigration-statistics.md)
+- [Demographic Trends](./demographic-trends.md) 

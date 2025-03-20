@@ -1,22 +1,23 @@
-# Consumer Confidence Index (CCI)
+# Consumer Confidence
 
-The Consumer Confidence Index (CCI) is a key economic indicator that measures the degree of optimism or pessimism that consumers feel about the overall state of the economy and their personal financial situation. It serves as a leading indicator of consumer spending patterns and economic activity, making it an essential metric for understanding future economic trends.
+Consumer Confidence is a key economic indicator that measures the degree of optimism that consumers feel about the overall state of the economy and their personal financial situation. This indicator provides crucial insights into consumer sentiment, spending intentions, and economic expectations, making it essential for understanding future economic activity.
 
 ## Historical Background
 
 ### Origins and Development
 
-The systematic measurement of consumer confidence has evolved significantly:
+The measurement of consumer confidence has evolved significantly:
 
-- **Early 1900s**: Basic consumer sentiment surveys conducted by academic institutions
-- **1930s**: Development of consumer attitude surveys during the Great Depression
-- **1940s**: Establishment of regular consumer confidence reporting by the Conference Board
-- **1950s-1960s**: Expansion of survey components and improved measurement techniques
-- **1970s-1980s**: Introduction of regional and demographic breakdowns
-- **1990s-2000s**: Enhanced tracking of digital and online consumer behavior
-- **2010s-Present**: Integration of alternative data sources and real-time sentiment analysis
+- **1940s**: First surveys
+- **1950s**: Michigan Index
+- **1960s**: Conference Board
+- **1970s**: Global expansion
+- **1980s**: Regional indices
+- **1990s**: Digital surveys
+- **2000s**: Real-time tracking
+- **Present**: AI sentiment analysis
 
-The evolution of consumer confidence measurement reflects growing recognition of its importance in understanding economic conditions and consumer behavior.
+The evolution reflects growing sophistication in measuring consumer sentiment.
 
 ## Calculation Methodology
 
@@ -25,176 +26,171 @@ The evolution of consumer confidence measurement reflects growing recognition of
 Consumer confidence data is gathered through multiple sources:
 
 1. **Primary Sources**:
-   - Household surveys and interviews
-   - Online consumer panels
-   - Social media sentiment analysis
-   - Retail transaction data
-   - Credit card spending patterns
-   - Search engine trends
-   - Mobile app usage data
+   - Consumer surveys
+   - Household interviews
+   - Online polls
+   - Phone surveys
+   - Focus groups
+   - Social media
+   - Search trends
+   - News sentiment
 
 2. **Survey Components**:
-   - Current Conditions Index
-   - Expectations Index
-   - Labor Market Assessment
-   - Business Conditions Outlook
-   - Personal Income Prospects
-   - Spending Intentions
-   - Price Expectations
-   - Stock Market Outlook
+   - Current conditions
+   - Future expectations
+   - Employment outlook
+   - Income prospects
+   - Purchase intentions
+   - Savings plans
+   - Investment outlook
+   - Price expectations
 
 3. **Administrative Records**:
-   - Credit bureau data
-   - Bank account records
-   - Retail loyalty programs
-   - Online shopping data
-   - Social media activity
-   - Mobile payment records
-   - Digital wallet usage
+   - Survey responses
+   - Interview transcripts
+   - Online submissions
+   - Phone records
+   - Focus group notes
+   - Social data
+   - Search data
+   - News archives
 
 ### Calculation Approach
 
-The Consumer Confidence Index is calculated through a comprehensive process:
+Consumer confidence is calculated through a comprehensive process:
 
 1. **Survey Components**:
-   - **Current Conditions**:
-     - Business conditions
-     - Employment conditions
-     - Personal financial situation
-     - Income expectations
-   
-   - **Future Expectations**:
-     - Business conditions outlook
-     - Employment prospects
-     - Income expectations
-     - Spending intentions
-   
-   - **Additional Factors**:
-     - Price expectations
-     - Interest rate outlook
-     - Stock market expectations
-     - Housing market outlook
+   - **Current Situation**: Present conditions
+   - **Future Expectations**: 6-month outlook
+   - **Employment Outlook**: Job prospects
+   - **Income Expectations**: Earning potential
+   - **Purchase Plans**: Buying intentions
+   - **Savings Intentions**: Financial plans
+   - **Investment Plans**: Asset allocation
+   - **Price Expectations**: Inflation views
 
 2. **Adjustments**:
-   - **Seasonal Adjustment**: Remove recurring patterns
-   - **Population Weighting**: Account for demographic factors
-   - **Regional Balance**: Geographic representation
-   - **Response Bias**: Correct for survey biases
+   - **Seasonal Adjustment**: Remove patterns
+   - **Geographic Weights**: Regional balance
+   - **Demographic Weights**: Population mix
+   - **Income Weights**: Economic distribution
+   - **Response Bias**: Survey correction
+   - **Non-Response**: Missing data
+   - **Outliers**: Extreme values
+   - **Revisions**: Data updates
 
 3. **Index Construction**:
-   - Calculate component indices
-   - Apply appropriate weights
+   - Calculate sub-indices
+   - Apply weights
    - Generate composite index
-   - Create sub-indices
+   - Create diffusion index
 
 ### Variations and Categories
 
 Key variations of consumer confidence data include:
 
-- **Overall Index**: Composite measure of confidence
-- **Current Conditions Index**: Present situation assessment
-- **Expectations Index**: Future outlook measure
-- **Regional Indices**: Geographic breakdowns
-- **Demographic Indices**: Age and income groups
-- **Sector-Specific Indices**: Industry confidence
-- **Digital Confidence**: Online sentiment
-- **Spending Intentions**: Future consumption plans
+- **Overall Index**: Composite measure
+- **Current Index**: Present conditions
+- **Expectations Index**: Future outlook
+- **Employment Index**: Job market
+- **Income Index**: Earnings view
+- **Purchase Index**: Buying plans
+- **Savings Index**: Financial plans
+- **Price Index**: Inflation expectations
 
 ## Interpretation and Analysis
 
 ### Basic Interpretation
 
-Consumer confidence data provides crucial insights into economic conditions:
+Consumer confidence data provides crucial insights:
 
 - **Month-over-Month Change**:
-  - Immediate sentiment shifts
-  - Impact of economic events
+  - Sentiment shifts
   - Seasonal patterns
+  - Economic shocks
 
 - **Year-over-Year Change**:
-  - Longer-term confidence trends
+  - Long-term trends
+  - Cyclical patterns
   - Structural changes
-  - Economic cycle position
 
 - **Index Levels**:
-  - Below 50: Pessimistic outlook
-  - 50-100: Neutral sentiment
-  - Above 100: Optimistic outlook
-  - Above 150: Very optimistic
-  - Below 30: Very pessimistic
+  - Absolute confidence
+  - Historical comparison
+  - Threshold analysis
 
 - **Component Analysis**:
-  - Current vs. Future expectations
-  - Labor market assessment
-  - Income prospects
-  - Spending intentions
+  - Current conditions
+  - Future expectations
+  - Specific concerns
+  - Regional variations
 
 ### Advanced Analysis Techniques
 
 #### Component Analysis
-- **Current vs. Future**: Understanding sentiment shifts
-- **Labor Market Impact**: Employment confidence
-- **Income Expectations**: Financial outlook
-- **Regional Patterns**: Geographic disparities
-- **Demographic Trends**: Age and income effects
+- **Current vs Future**: Time comparison
+- **Employment vs Income**: Economic security
+- **Purchase vs Save**: Financial decisions
+- **Regional Patterns**: Geographic trends
+- **Demographic Groups**: Population segments
 
 #### Relationship to Other Indicators
-- **Spending Link**: Confidence's impact on consumption
-- **Employment Correlation**: Labor market effects
-- **Stock Market Connection**: Investment sentiment
-- **Housing Market Impact**: Real estate confidence
-- **Inflation Expectations**: Price outlook effects
+- **GDP Growth**: Economic output
+- **Retail Sales**: Consumer spending
+- **Employment**: Job market
+- **Stock Market**: Asset prices
+- **Interest Rates**: Monetary policy
 
 #### Distributional Analysis
-- **Income Groups**: Confidence by wealth level
-- **Age Cohorts**: Generational differences
-- **Geographic Patterns**: Regional variations
-- **Education Levels**: Educational attainment effects
-- **Urban vs. Rural**: Location-based differences
+- **Income Groups**: Economic status
+- **Age Cohorts**: Generation gaps
+- **Education Levels**: Knowledge impact
+- **Geographic Areas**: Regional patterns
+- **Household Types**: Family structure
 
 ## Implications for Financial Markets
 
 ### Impact on Asset Classes
 
 #### Fixed Income
-- **Government Bonds**: Confidence affects inflation expectations
-- **Corporate Bonds**: Sentiment influences default risk
-- **Municipal Bonds**: Local confidence impact
-- **Inflation-Protected Securities**: Price outlook effects
+- **Government Bonds**: Safe havens
+- **Corporate Bonds**: Business conditions
+- **Municipal Bonds**: Local economy
+- **Consumer Credit**: Household debt
 
 #### Equities
-- **Consumer Discretionary**: Direct sentiment impact
-- **Consumer Staples**: Defensive positioning
-- **Financial Services**: Confidence affects lending
-- **Real Estate**: Housing market sentiment
-- **Technology**: Digital confidence effects
+- **Consumer Stocks**: Retail sector
+- **Financial Stocks**: Banking sector
+- **Technology Stocks**: Digital economy
+- **Industrial Stocks**: Manufacturing
+- **Service Stocks**: Consumer services
 
 #### Alternative Investments
-- **Real Estate**: Property market sentiment
-- **Private Equity**: Consumer sector opportunities
-- **Hedge Funds**: Sentiment-based strategies
-- **Commodities**: Demand outlook effects
+- **Real Estate**: Property markets
+- **Commodities**: Raw materials
+- **Private Equity**: Business value
+- **Venture Capital**: Innovation
 
 ### Market Reactions to Releases
 
-Consumer confidence reports typically trigger market movements:
+Consumer confidence reports typically trigger market responses:
 
-- **Stronger-Than-Expected Reading**:
-  - Consumer stocks often outperform
-  - Increased spending expectations
-  - Higher inflation expectations
-  - Currency strength potential
+- **Higher-Than-Expected**:
+  - Stock market gains
+  - Bond yield rise
+  - Dollar strength
+  - Commodity demand
 
-- **Weaker-Than-Expected Reading**:
-  - Defensive sectors often outperform
-  - Reduced spending expectations
-  - Lower inflation expectations
-  - Currency weakness potential
+- **Lower-Than-Expected**:
+  - Stock market pressure
+  - Bond yield decline
+  - Dollar weakness
+  - Commodity weakness
 
-- **Component Changes**:
-  - Sector-specific movements
-  - Regional market impacts
-  - Duration-based effects
+- **Structural Changes**:
+  - Sector rotation
+  - Asset allocation
+  - Risk assessment
 
 ## Policy Implications
 
@@ -202,23 +198,23 @@ Consumer confidence reports typically trigger market movements:
 
 Central banks monitor consumer confidence for policy decisions:
 
-- **Interest Rate Policy**: Confidence influence on rates
-- **Inflation Targeting**: Sentiment's role in prices
-- **Financial Stability**: Confidence-driven risks
-- **Forward Guidance**: Sentiment communication
-- **Quantitative Easing**: Confidence effects
-- **Policy Transmission**: Sentiment channel effectiveness
+- **Interest Rates**: Borrowing costs
+- **Money Supply**: Liquidity levels
+- **Credit Policy**: Lending conditions
+- **Forward Guidance**: Policy signals
+- **Market Operations**: Intervention
+- **Financial Stability**: System risk
 
 ### Fiscal Policy
 
 Government policy responds to confidence trends:
 
-- **Tax Policy**: Confidence-based adjustments
-- **Transfer Payments**: Social support modifications
-- **Infrastructure Investment**: Confidence-driven demand
-- **Education Funding**: Human capital development
-- **Healthcare Policy**: Health confidence support
-- **Housing Programs**: Housing market support
+- **Tax Policy**: Revenue measures
+- **Spending Programs**: Support systems
+- **Social Security**: Safety nets
+- **Infrastructure**: Public works
+- **Education**: Skills development
+- **Healthcare**: Public services
 
 ## Consumer Confidence Across Countries
 
@@ -226,35 +222,35 @@ Government policy responds to confidence trends:
 
 Major economies measure consumer confidence differently:
 
-- **United States**: Conference Board CCI
-- **European Union**: European Commission Consumer Confidence
+- **United States**: Conference Board, Michigan
+- **European Union**: EC Consumer Survey
 - **United Kingdom**: GfK Consumer Confidence
-- **Japan**: Cabinet Office Consumer Confidence
-- **China**: National Bureau of Statistics CCI
-- **Australia**: Westpac-Melbourne Institute CCI
+- **Japan**: Consumer Confidence Index
+- **China**: Westpac MNI
+- **India**: RBI Consumer Confidence
 
-Key differences in international measurement:
-- **Survey Methods**: Different approaches
-- **Question Design**: Varying survey questions
-- **Index Construction**: Different methodologies
-- **Cultural Factors**: Regional differences
-- **Economic Structure**: Sector composition
-- **Data Frequency**: Release timing
+Key differences in measurement:
+- **Survey Methods**: Collection approach
+- **Sample Size**: Population coverage
+- **Frequency**: Measurement timing
+- **Components**: Index structure
+- **Adjustments**: Statistical methods
+- **Publication**: Release timing
 
 ### Cultural and Structural Differences
 
-Confidence patterns vary across countries due to:
+Consumer sentiment varies across countries due to:
 
-- **Cultural Norms**: Different expression styles
-- **Economic Systems**: Market structure
-- **Social Safety Nets**: Welfare provision
-- **Media Influence**: Information access
-- **Political Systems**: Governance structure
-- **Financial Systems**: Banking structure
-- **Education Levels**: Human capital
-- **Demographic Structure**: Population composition
-- **Economic Development**: Development stage
-- **Global Integration**: Trade openness
+- **Economic Development**: Income levels
+- **Cultural Values**: Social norms
+- **Political System**: Government role
+- **Market Structure**: Economic system
+- **Social Programs**: Support networks
+- **Education**: Knowledge levels
+- **Demographics**: Population mix
+- **Geography**: Physical factors
+- **Technology**: Digital access
+- **Infrastructure**: Public services
 
 ## Limitations and Critiques
 
@@ -262,103 +258,103 @@ Confidence patterns vary across countries due to:
 
 Consumer confidence faces several limitations:
 
-- **Survey Bias**: Response accuracy
-- **Sample Selection**: Representative issues
-- **Question Interpretation**: Understanding variations
-- **Cultural Differences**: Expression styles
-- **Timing Issues**: Survey timing effects
-- **Response Rate**: Participation levels
-- **Digital Divide**: Online access
-- **Language Barriers**: Translation effects
-- **Social Desirability**: Response bias
-- **Memory Effects**: Recall accuracy
+- **Survey Bias**: Response patterns
+- **Sample Size**: Population coverage
+- **Response Rate**: Participation
+- **Question Design**: Survey structure
+- **Timing Effects**: Collection period
+- **Regional Gaps**: Geographic coverage
+- **Income Bias**: Economic status
+- **Education Bias**: Knowledge levels
+- **Technology Gap**: Digital access
+- **Cultural Factors**: Social norms
 
-### Alternative Confidence Measures
+### Alternative Measures
 
 Several complementary indicators provide additional insights:
 
-- **Retail Sales**: Actual spending data
-- **Credit Card Usage**: Transaction patterns
-- **Online Search Trends**: Digital behavior
-- **Social Media Sentiment**: Online expression
-- **Mobile Payment Data**: Digital transactions
-- **Store Traffic**: Physical shopping
-- **Price Expectations**: Inflation outlook
-- **Employment Confidence**: Job market sentiment
-- **Housing Market Sentiment**: Real estate outlook
-- **Stock Market Sentiment**: Investment confidence
+- **Business Confidence**: Company view
+- **Economic Sentiment**: Market mood
+- **Purchase Managers**: Industry outlook
+- **Bank Lending**: Credit conditions
+- **Credit Card Use**: Spending patterns
+- **Retail Sales**: Purchase activity
+- **Housing Market**: Property sector
+- **Auto Sales**: Durable goods
+- **Travel Spending**: Service sector
+- **Online Shopping**: Digital commerce
 
 ## Best Practices for Investors
 
 ### Using Consumer Confidence in Investment Decisions
 
-- **Look Beyond Headlines**: Examine component details
-- **Consider Trends**: Track changes over time
-- **Analyze Components**: Understand sub-indices
-- **Track Regional Patterns**: Geographic variations
-- **Monitor Demographics**: Age and income effects
-- **Evaluate Policy Impact**: Government influence
-- **Assess Market Effects**: Asset price implications
-- **Consider Cultural Factors**: Regional differences
-- **Watch for Revisions**: Data quality changes
-- **Integrate Multiple Indicators**: Cross-reference data
+- **Monitor Trends**: Sentiment patterns
+- **Analyze Components**: Index structure
+- **Track Changes**: Movement direction
+- **Watch Levels**: Absolute position
+- **Evaluate Context**: Economic conditions
+- **Consider Timing**: Release schedule
+- **Study History**: Past patterns
+- **Follow Policy**: Government response
+- **Check Markets**: Price reactions
+- **Review Research**: Expert analysis
 
-### Confidence-Based Investment Strategies
+### Consumer Investment Strategies
 
-- **Consumer Sector Positioning**: Sentiment impact
-- **Geographic Focus**: Regional confidence patterns
-- **Sector Rotation**: Confidence-sensitive sectors
-- **Quality Selection**: Stability focus
-- **Growth vs. Value**: Confidence implications
-- **Defensive Positioning**: Weakness protection
-- **Currency Exposure**: FX effects
-- **Fixed Income Strategy**: Rate expectations
-- **Real Estate Focus**: Property market sentiment
-- **Alternative Investments**: Pattern opportunities
+- **Sector Selection**: Industry focus
+- **Asset Allocation**: Portfolio mix
+- **Risk Management**: Protection measures
+- **Market Timing**: Entry points
+- **Geographic Focus**: Regional exposure
+- **Style Rotation**: Investment approach
+- **Factor Analysis**: Return drivers
+- **Technical Analysis**: Price patterns
+- **Fundamental Analysis**: Value drivers
+- **Portfolio Protection**: Risk hedging
 
 ## Data Sources and Research
 
 ### Official Sources
 
-- **The Conference Board**: [Consumer Confidence Index](https://www.conference-board.org/data/consumerconfidence.cfm)
-- **European Commission**: [Consumer Confidence](https://ec.europa.eu/eurostat/web/consumer-confidence-indicator)
-- **GfK**: [Consumer Confidence](https://www.gfk.com/insights/consumer-confidence)
-- **OECD**: [Consumer Confidence Indicators](https://stats.oecd.org/Index.aspx?DataSetCode=CCI)
-- **World Bank**: [Global Economic Monitor](https://www.worldbank.org/en/research/brief/global-economic-monitor)
+- **Conference Board**: [Consumer Confidence](https://www.conference-board.org)
+- **Michigan Survey**: [Consumer Sentiment](https://data.sca.isr.umich.edu)
+- **Federal Reserve**: [Economic Data](https://www.federalreserve.gov)
+- **European Commission**: [Consumer Surveys](https://ec.europa.eu)
+- **OECD**: [Economic Indicators](https://www.oecd.org)
 
 ### Release Schedule and Calendar
 
-- **United States**: Released monthly, last Tuesday of the month
-- **Eurozone**: Published monthly, around the 23rd
-- **United Kingdom**: Released monthly, around the 30th
-- **Japan**: Published monthly, around the 15th
-- **Economic Calendars**: Bloomberg, Trading Economics, Investing.com track releases
+- **Monthly Reports**: Regular updates
+- **Special Surveys**: Focused studies
+- **Regional Reports**: Local analysis
+- **Global Studies**: International view
+- **Economic Calendars**: Release dates
 
 ## Historical Trends and Case Studies
 
 ### Notable Episodes
 
-- **Great Recession (2008-2009)**: Sharp confidence declines
-- **COVID-19 Pandemic (2020-2021)**: Digital confidence surge
-- **1990s Economic Boom**: Sustained high confidence
-- **1970s Stagflation**: Confidence challenges
-- **2000s Housing Boom**: Real estate optimism
-- **Post-War Period**: Middle-class confidence expansion
-- **1980s Tax Changes**: Confidence distribution shifts
-- **2010s Recovery**: Uneven confidence growth
+- **Oil Crisis (1973)**: Energy shock
+- **Volcker Era (1980s)**: Inflation fight
+- **Gulf War (1990)**: Military conflict
+- **Tech Bubble (2000)**: Market crash
+- **Financial Crisis (2008)**: Economic collapse
+- **European Crisis (2011)**: Debt problems
+- **COVID-19 (2020)**: Global pandemic
+- **Inflation Surge (2022)**: Price pressure
 
 ### Structural Changes
 
-- **Digital Transformation**: Online confidence growth
-- **Service Economy**: Service sector optimism
-- **Sustainability Impact**: Green confidence trends
-- **Health Focus**: Healthcare confidence
-- **Education Premium**: Education confidence
-- **Demographic Shifts**: Aging population impact
-- **Industry Transformation**: Sector confidence changes
-- **Financialization**: Investment confidence growth
-- **Government Role**: Public confidence evolution
-- **Global Competition**: Market confidence effects
+- **Globalization**: International trade
+- **Technology**: Digital economy
+- **Demographics**: Population shifts
+- **Climate Change**: Environmental focus
+- **Social Media**: Information flow
+- **Mobile Commerce**: Digital shopping
+- **Remote Work**: Employment patterns
+- **Digital Finance**: Payment systems
+- **Sustainability**: Green economy
+- **Sharing Economy**: Access models
 
 ## Programming and Analysis Tools
 
@@ -387,12 +383,12 @@ class ConsumerConfidenceAnalyzer:
         if fred_api_key:
             self.fred = fred.Fred(api_key=fred_api_key)
     
-    def get_consumer_confidence_data(self, measure='total', start_date='1967-01-01', end_date=None):
+    def get_confidence_data(self, measure='total', start_date='1992-01-01', end_date=None):
         """
         Retrieve consumer confidence data from FRED
         
         Parameters:
-        measure (str): Type of consumer confidence data ('total', 'current', 'expectations', etc.)
+        measure (str): Type of confidence data ('total', 'current', 'expectations', etc.)
         start_date (str): Start date in YYYY-MM-DD format
         end_date (str): End date in YYYY-MM-DD format
         
@@ -402,50 +398,48 @@ class ConsumerConfidenceAnalyzer:
         if not self.fred_api_key:
             raise ValueError("FRED API key required for data download")
             
-        # Series IDs for different consumer confidence measures
+        # Series IDs for different confidence measures
         series_mapping = {
-            'total': 'UMCSENT',           # Consumer Sentiment Index
-            'current': 'UMCSCUR',         # Current Conditions
-            'expectations': 'UMCSENT5',   # Consumer Expectations
-            'business': 'UMCBSENT',       # Business Conditions
-            'employment': 'UMCEMPSENT',   # Employment Conditions
-            'personal': 'UMCPERSENT',     # Personal Finances
-            'spending': 'UMCSPEND'        # Spending Attitudes
+            'total': 'CSCICP03USM665S',    # Consumer Confidence Index
+            'current': 'CCSA',              # Current Situation
+            'expectations': 'CESA',         # Consumer Expectations
+            'michigan': 'UMCSENT',          # Michigan Consumer Sentiment
+            'conference': 'CONCCONF'        # Conference Board Consumer Confidence
         }
         
         if measure not in series_mapping:
             raise ValueError(f"Measure '{measure}' not supported")
         
-        # Fetch consumer confidence data
+        # Fetch confidence data
         confidence_data = self.fred.get_series(series_mapping[measure], start_date, end_date)
         confidence_df = pd.DataFrame(confidence_data, columns=['Consumer_Confidence'])
         confidence_df.index.name = 'Date'
         
         return confidence_df
     
-    def get_multiple_measures(self, measures=None, start_date='1967-01-01', end_date=None):
+    def get_multiple_measures(self, measures=None, start_date='1992-01-01', end_date=None):
         """
-        Retrieve multiple consumer confidence measures and combine into a single DataFrame
+        Retrieve multiple confidence measures and combine into a single DataFrame
         
         Parameters:
-        measures (list): List of consumer confidence measures to retrieve
+        measures (list): List of confidence measures to retrieve
         start_date (str): Start date
         end_date (str): End date
         
         Returns:
-        pd.DataFrame: DataFrame with multiple consumer confidence measures
+        pd.DataFrame: DataFrame with multiple confidence measures
         """
         if measures is None:
             # Default to main measures
-            measures = ['total', 'current', 'expectations', 'business', 'employment']
+            measures = ['total', 'current', 'expectations', 'michigan']
         
         # Initialize with first measure
-        result_df = self.get_consumer_confidence_data(measures[0], start_date, end_date)
+        result_df = self.get_confidence_data(measures[0], start_date, end_date)
         result_df.columns = [measures[0]]
         
         # Add additional measures
         for measure in measures[1:]:
-            measure_df = self.get_consumer_confidence_data(measure, start_date, end_date)
+            measure_df = self.get_confidence_data(measure, start_date, end_date)
             result_df[measure] = measure_df['Consumer_Confidence']
         
         return result_df
@@ -455,7 +449,7 @@ class ConsumerConfidenceAnalyzer:
         Calculate changes over different periods
         
         Parameters:
-        confidence_data (pd.DataFrame): DataFrame with consumer confidence values
+        confidence_data (pd.DataFrame): DataFrame with confidence values
         periods (list): List of periods for calculating changes
         
         Returns:
@@ -467,23 +461,72 @@ class ConsumerConfidenceAnalyzer:
         # Calculate changes for each period
         for period in periods:
             period_name = f"{period}m" if period != 12 else "YoY"
-            df[f'{period_name}_Change'] = df[column].diff(period)
+            df[f'{period_name}_Change'] = df[column].pct_change(period) * 100
         
         return df
     
-    def decompose_confidence_trends(self, confidence_data, period=12, model='additive'):
+    def calculate_expectations_gap(self, current_data, expectations_data, start_date='1992-01-01'):
         """
-        Decompose consumer confidence into trend, seasonal, and residual components
+        Calculate gap between current situation and expectations
         
         Parameters:
-        confidence_data (pd.DataFrame): DataFrame with consumer confidence data
+        current_data (pd.DataFrame): DataFrame with current situation values
+        expectations_data (pd.DataFrame): DataFrame with expectations values
+        start_date (str): Start date for analysis
+        
+        Returns:
+        dict: Gap analysis results and visualization
+        """
+        # Extract data series
+        current_col = current_data.columns[0] if isinstance(current_data.columns, pd.Index) else 'Consumer_Confidence'
+        expectations_col = expectations_data.columns[0] if isinstance(expectations_data.columns, pd.Index) else 'Expectations'
+        
+        # Create analysis DataFrame
+        df = pd.DataFrame({
+            'Current': current_data[current_col],
+            'Expectations': expectations_data[expectations_col]
+        })
+        
+        # Calculate gap
+        df['Gap'] = df['Current'] - df['Expectations']
+        
+        # Calculate basic statistics
+        stats = df['Gap'].describe()
+        
+        # Create visualization
+        plt.figure(figsize=(14, 7))
+        plt.plot(df.index, df['Gap'], 'b-', label='Expectations Gap')
+        plt.axhline(y=stats['mean'], color='r', linestyle='--', label='Mean')
+        plt.fill_between(df.index, 
+                        stats['mean'] - stats['std'],
+                        stats['mean'] + stats['std'],
+                        alpha=0.2, color='gray', label='±1 Std Dev')
+        
+        plt.title('Consumer Confidence: Current vs Expectations Gap', fontsize=16)
+        plt.xlabel('Date', fontsize=12)
+        plt.ylabel('Gap (Index Points)', fontsize=12)
+        plt.grid(True, alpha=0.3)
+        plt.legend()
+        
+        return {
+            'data': df,
+            'statistics': stats,
+            'plot': plt
+        }
+    
+    def decompose_confidence_trends(self, confidence_data, period=12, model='additive'):
+        """
+        Decompose confidence data into trend, seasonal, and residual components
+        
+        Parameters:
+        confidence_data (pd.DataFrame): DataFrame with confidence data
         period (int): Period for seasonal component (12 for monthly data)
         model (str): Decomposition model ('additive' or 'multiplicative')
         
         Returns:
         dict: Components and plot of decomposition
         """
-        # Extract consumer confidence series
+        # Extract confidence series
         confidence_col = confidence_data.columns[0] if isinstance(confidence_data.columns, pd.Index) else 'Consumer_Confidence'
         series = confidence_data[confidence_col].dropna()
         
@@ -520,12 +563,12 @@ class ConsumerConfidenceAnalyzer:
             'plot': fig
         }
     
-    def forecast_consumer_confidence(self, confidence_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
+    def forecast_confidence(self, confidence_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
         """
         Forecast consumer confidence using SARIMA model
         
         Parameters:
-        confidence_data (pd.DataFrame): DataFrame with consumer confidence data
+        confidence_data (pd.DataFrame): DataFrame with confidence data
         periods (int): Number of periods to forecast
         order (tuple): ARIMA order (p,d,q)
         seasonal_order (tuple): Seasonal ARIMA order (P,D,Q,s)
@@ -533,7 +576,7 @@ class ConsumerConfidenceAnalyzer:
         Returns:
         dict: Forecast data and visualization
         """
-        # Extract consumer confidence series
+        # Extract confidence series
         confidence_col = confidence_data.columns[0] if isinstance(confidence_data.columns, pd.Index) else 'Consumer_Confidence'
         series = confidence_data[confidence_col].dropna()
         
@@ -549,13 +592,11 @@ class ConsumerConfidenceAnalyzer:
         # Generate forecast
         forecast = model_fit.forecast(steps=periods)
         
-        # Create forecast index (extending from the last data point)
+        # Create forecast index
         if isinstance(series.index, pd.DatetimeIndex):
-            # For datetime index (most common case)
             last_date = series.index[-1]
             forecast_index = pd.date_range(start=last_date, periods=periods+1, freq='MS')[1:]
         else:
-            # For numeric index
             last_idx = series.index[-1]
             forecast_index = range(last_idx + 1, last_idx + periods + 1)
         
@@ -591,7 +632,7 @@ class ConsumerConfidenceAnalyzer:
         
         plt.title('Consumer Confidence: Historical and Forecast', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Consumer Confidence', fontsize=12)
+        plt.ylabel('Confidence Index', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend()
         
@@ -603,28 +644,27 @@ class ConsumerConfidenceAnalyzer:
             'plot': plt
         }
     
-    def confidence_component_analysis(self, confidence_data, start_date='1967-01-01'):
+    def component_analysis(self, start_date='1992-01-01'):
         """
         Analyze the composition of consumer confidence by component
         
         Parameters:
-        confidence_data (pd.DataFrame): DataFrame with consumer confidence data
         start_date (str): Start date for analysis
         
         Returns:
         dict: Component analysis and visualization
         """
-        # Get various confidence components
+        # Get confidence components
         components = {
-            'Current': 'UMCSCUR',         # Current Conditions
-            'Expectations': 'UMCSENT5',   # Consumer Expectations
-            'Business': 'UMCBSENT',       # Business Conditions
-            'Employment': 'UMCEMPSENT',   # Employment Conditions
-            'Personal': 'UMCPERSENT'      # Personal Finances
+            'Total': 'CSCICP03USM665S',    # Total Confidence
+            'Current': 'CCSA',              # Current Situation
+            'Expectations': 'CESA',         # Future Expectations
+            'Michigan': 'UMCSENT',          # Michigan Sentiment
+            'Conference': 'CONCCONF'        # Conference Board
         }
         
         # Fetch component data
-        component_data = pd.DataFrame(index=confidence_data.index)
+        component_data = pd.DataFrame()
         
         for name, series_id in components.items():
             try:
@@ -645,9 +685,9 @@ class ConsumerConfidenceAnalyzer:
         # Create line plot of components
         plt.figure(figsize=(14, 8))
         component_data.plot(alpha=0.7)
-        plt.title('Consumer Confidence Components Over Time', fontsize=16)
+        plt.title('Consumer Confidence by Component', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Index Value', fontsize=12)
+        plt.ylabel('Confidence Index', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.tight_layout()
@@ -661,21 +701,21 @@ class ConsumerConfidenceAnalyzer:
 
 # Example usage:
 # analyzer = ConsumerConfidenceAnalyzer(fred_api_key="your_api_key_here")
-# confidence_data = analyzer.get_consumer_confidence_data()
+# confidence_data = analyzer.get_confidence_data()
 # changes_data = analyzer.calculate_changes(confidence_data)
-# analyzer.decompose_confidence_trends(confidence_data)
+# decomposition = analyzer.decompose_confidence_trends(confidence_data)
 # plt.show()
 ```
 
 ## Related Economic Indicators
 
+- [Consumer Behavior](./consumer-behavior.md)
 - [Personal Income](./personal-income.md)
-- [Personal Spending](./personal-spending.md)
-- [Consumer Price Index (CPI)](./consumer-price-index.md)
+- [Employment Situation](./employment-situation.md)
 - [Retail Sales](./retail-sales.md)
-- [Unemployment Rate](./unemployment-rate.md)
-- [Gross Domestic Product (GDP)](./gross-domestic-product.md)
-- [Average Hourly Earnings](./average-hourly-earnings.md)
-- [Labor Force Participation Rate](./labor-force-participation.md)
-- [Household Debt](./household-debt.md)
-- [Personal Savings Rate](./personal-savings-rate.md) 
+- [Inflation Rate](./inflation-rate.md)
+- [Stock Market](./stock-market.md)
+- [Interest Rates](./interest-rates.md)
+- [GDP Growth](./gdp-growth.md)
+- [Business Confidence](./business-confidence.md)
+- [Economic Sentiment](./economic-sentiment.md) 

@@ -1,188 +1,188 @@
-# Personal Income
+# Job Openings
 
-Personal Income is a key economic indicator that measures the total income received by individuals from all sources, including wages, investments, rentals, and government transfers. This indicator provides crucial insights into household financial resources, spending power, and economic well-being, making it essential for understanding consumer behavior and economic activity.
+Job Openings is a key economic indicator that measures the number of unfilled positions that employers are actively trying to fill. This indicator provides crucial insights into labor market demand, business hiring intentions, and economic growth potential, making it essential for understanding employment dynamics and business conditions.
 
 ## Historical Background
 
 ### Origins and Development
 
-The measurement of personal income has evolved significantly:
+The measurement of job openings has evolved significantly:
 
-- **1920s**: National accounts
-- **1930s**: Income surveys
-- **1940s**: Tax records
-- **1950s**: Social security
-- **1960s**: Transfer payments
-- **1970s**: Investment income
-- **1980s**: Digital records
-- **Present**: Real-time tracking
+- **1940s**: Help wanted ads
+- **1950s**: Employment services
+- **1960s**: Industry surveys
+- **1970s**: Regional data
+- **1980s**: JOLTS program
+- **1990s**: Online listings
+- **2000s**: Digital tracking
+- **Present**: Real-time data
 
-The evolution reflects growing sophistication in measuring household resources.
+The evolution reflects growing sophistication in measuring labor demand.
 
 ## Calculation Methodology
 
 ### Data Collection
 
-Personal income data is gathered through multiple sources:
+Job openings data is gathered through multiple sources:
 
 1. **Primary Sources**:
-   - Tax returns
-   - Payroll records
-   - Bank accounts
-   - Investment reports
+   - Business surveys
+   - Online listings
+   - Employment agencies
+   - Industry reports
    - Government records
-   - Survey data
-   - Census reports
-   - Business records
+   - Job boards
+   - Company websites
+   - Recruitment firms
 
-2. **Income Components**:
-   - Wages and salaries
-   - Investment income
-   - Rental income
-   - Business income
-   - Transfer payments
-   - Interest income
-   - Dividend income
-   - Pension income
+2. **Opening Components**:
+   - Position type
+   - Industry sector
+   - Geographic location
+   - Skill requirements
+   - Experience level
+   - Compensation range
+   - Work arrangement
+   - Benefits offered
 
 3. **Administrative Records**:
-   - IRS data
-   - Social Security
-   - Medicare records
-   - State records
-   - Bank reports
-   - Corporate filings
    - Survey responses
-   - Census data
+   - Online postings
+   - Agency reports
+   - Industry data
+   - Government files
+   - Company records
+   - Platform data
+   - Recruiter reports
 
 ### Calculation Approach
 
-Personal income is calculated through a comprehensive process:
+Job openings are analyzed through a comprehensive process:
 
-1. **Income Components**:
-   - **Wages**: Employment earnings
-   - **Investments**: Capital gains
-   - **Rentals**: Property income
-   - **Business**: Proprietor income
-   - **Transfers**: Government payments
-   - **Interest**: Debt returns
-   - **Dividends**: Stock returns
-   - **Pensions**: Retirement income
+1. **Opening Components**:
+   - **Position Count**: Job numbers
+   - **Industry Mix**: Sector demand
+   - **Geographic**: Location spread
+   - **Skills**: Required abilities
+   - **Experience**: Level needed
+   - **Compensation**: Pay offered
+   - **Benefits**: Additional perks
+   - **Work Type**: Job structure
 
 2. **Adjustments**:
    - **Seasonal Adjustment**: Remove patterns
-   - **Inflation Adjustment**: Real values
-   - **Tax Effects**: After-tax income
+   - **Industry Weights**: Sector balance
    - **Geographic**: Regional factors
-   - **Demographic**: Population mix
-   - **Source Mix**: Income types
-   - **Industry**: Sector effects
+   - **Skill Levels**: Requirement mix
+   - **Experience**: Level distribution
+   - **Compensation**: Pay ranges
+   - **Work Types**: Job formats
    - **Revisions**: Data updates
 
 3. **Index Construction**:
    - Calculate sub-indices
    - Apply weights
    - Generate composite index
-   - Create real index
+   - Create diffusion index
 
 ### Variations and Categories
 
-Key variations of personal income data include:
+Key variations of job openings data include:
 
-- **Total Income**: All sources
-- **Labor Income**: Employment earnings
-- **Investment Income**: Capital returns
-- **Transfer Income**: Government payments
-- **Business Income**: Self-employment
-- **Property Income**: Real estate
-- **Financial Income**: Market returns
-- **Retirement Income**: Pension payments
+- **Total Openings**: All positions
+- **Industry Openings**: Sector jobs
+- **Geographic Jobs**: Location data
+- **Skill Level**: Required abilities
+- **Experience**: Level needed
+- **Compensation**: Pay offered
+- **Work Type**: Job structure
+- **Benefits**: Additional perks
 
 ## Interpretation and Analysis
 
 ### Basic Interpretation
 
-Personal income data provides crucial insights:
+Job openings data provides crucial insights:
 
 - **Month-over-Month Change**:
-  - Income growth
+  - Opening growth
   - Seasonal patterns
-  - Source shifts
+  - Sector shifts
 
 - **Year-over-Year Change**:
   - Long-term trends
-  - Real growth
+  - Cyclical patterns
   - Structural changes
 
-- **Income Levels**:
-  - Absolute income
-  - Real income
-  - Relative income
+- **Opening Levels**:
+  - Total positions
+  - Sector mix
+  - Job types
 
 - **Component Analysis**:
-  - Income sources
-  - Growth drivers
-  - Distribution patterns
-  - Sector trends
+  - Opening types
+  - Industry patterns
+  - Geographic trends
+  - Skill requirements
 
 ### Advanced Analysis Techniques
 
 #### Component Analysis
-- **Source Breakdown**: Income types
-- **Growth Analysis**: Change patterns
-- **Distribution Study**: Income spread
-- **Sector Analysis**: Industry trends
-- **Regional Patterns**: Geographic mix
+- **Opening Mix**: Position types
+- **Industry Trends**: Sector patterns
+- **Geographic Patterns**: Regional data
+- **Skill Requirements**: Ability needs
+- **Experience Levels**: Required background
 
 #### Relationship to Other Indicators
-- **GDP Growth**: Economic output
 - **Employment**: Job market
-- **Consumer Spending**: Consumption
-- **Savings Rate**: Financial behavior
-- **Tax Revenue**: Fiscal impact
+- **Wage Growth**: Pay trends
+- **Business Investment**: Capital spending
+- **GDP Growth**: Economic output
+- **Productivity**: Output efficiency
 
 #### Distributional Analysis
-- **Income Groups**: Economic status
-- **Age Cohorts**: Life cycle
-- **Education Levels**: Skills premium
-- **Geographic Areas**: Regional patterns
-- **Industry Sectors**: Employment mix
+- **Industry Groups**: Sector patterns
+- **Geographic Areas**: Regional trends
+- **Skill Levels**: Required abilities
+- **Experience**: Required background
+- **Compensation**: Pay ranges
 
 ## Implications for Financial Markets
 
 ### Impact on Asset Classes
 
 #### Fixed Income
-- **Government Bonds**: Tax revenue
-- **Corporate Bonds**: Consumer demand
-- **Municipal Bonds**: Local income
-- **Consumer Credit**: Debt service
+- **Government Bonds**: Economic growth
+- **Corporate Bonds**: Business health
+- **Municipal Bonds**: Local economy
+- **Inflation Bonds**: Price pressure
 
 #### Equities
-- **Consumer Stocks**: Spending power
-- **Financial Stocks**: Investment demand
-- **Technology Stocks**: Digital services
-- **Real Estate**: Housing demand
-- **Retail Stocks**: Shopping trends
+- **Cyclical Stocks**: Economic growth
+- **Staffing Stocks**: Employment services
+- **Technology Stocks**: Digital jobs
+- **Small Caps**: Business growth
+- **Sector ETFs**: Industry exposure
 
 #### Alternative Investments
 - **Real Estate**: Property demand
-- **Private Equity**: Business growth
-- **Venture Capital**: Start-up funding
-- **Infrastructure**: Public services
+- **Private Equity**: Business value
+- **Venture Capital**: Start-ups
+- **Infrastructure**: Public works
 
 ### Market Reactions to Releases
 
-Personal income reports typically trigger market responses:
+Job openings reports typically trigger market responses:
 
 - **Higher-Than-Expected**:
-  - Consumer stock gains
+  - Stock market gains
   - Bond yield rise
   - Dollar strength
   - Commodity demand
 
 - **Lower-Than-Expected**:
-  - Consumer stock pressure
+  - Stock market pressure
   - Bond yield decline
   - Dollar weakness
   - Commodity weakness
@@ -196,100 +196,100 @@ Personal income reports typically trigger market responses:
 
 ### Monetary Policy
 
-Central banks monitor personal income for policy decisions:
+Central banks monitor job openings for policy decisions:
 
 - **Interest Rates**: Borrowing costs
 - **Money Supply**: Liquidity levels
 - **Credit Policy**: Lending conditions
-- **Inflation Target**: Price stability
+- **Forward Guidance**: Policy signals
+- **Market Operations**: Intervention
 - **Financial Stability**: System risk
-- **Policy Transmission**: Income effects
 
 ### Fiscal Policy
 
-Government policy responds to income trends:
+Government policy responds to opening trends:
 
 - **Tax Policy**: Revenue measures
-- **Transfer Programs**: Support systems
-- **Social Security**: Retirement income
-- **Medicare**: Health coverage
-- **Education**: Skills development
-- **Infrastructure**: Public services
+- **Training Programs**: Skills development
+- **Education**: Human capital
+- **Infrastructure**: Public works
+- **Job Support**: Employment aid
+- **Social Safety**: Support nets
 
-## Personal Income Across Countries
+## Job Openings Across Countries
 
 ### International Comparison
 
-Major economies measure personal income differently:
+Major economies measure job openings differently:
 
-- **United States**: BEA measures
-- **European Union**: Eurostat data
+- **United States**: JOLTS data
+- **European Union**: Eurostat measures
 - **United Kingdom**: ONS statistics
-- **Japan**: Cabinet Office
+- **Japan**: MHLW data
 - **China**: NBS measures
 - **India**: MOSPI data
 
 Key differences in measurement:
-- **Data Sources**: Collection methods
-- **Income Types**: Component mix
-- **Time Periods**: Frequency
+- **Survey Methods**: Collection approach
+- **Opening Types**: Position categories
+- **Time Periods**: Measurement frequency
 - **Coverage**: Population scope
 - **Adjustments**: Statistical methods
 - **Publication**: Release timing
 
 ### Cultural and Structural Differences
 
-Income patterns vary across countries due to:
+Opening patterns vary across countries due to:
 
 - **Economic Development**: Growth stage
 - **Market Structure**: Economic system
-- **Social Programs**: Support networks
-- **Tax Systems**: Revenue rules
-- **Labor Markets**: Employment patterns
+- **Labor Laws**: Work rules
 - **Education**: Skills levels
 - **Demographics**: Population mix
 - **Geography**: Physical factors
 - **Technology**: Digital access
 - **Infrastructure**: Public services
+- **Culture**: Work norms
+- **Social Programs**: Support systems
 
 ## Limitations and Critiques
 
 ### Measurement Challenges
 
-Personal income faces several limitations:
+Job openings data faces several limitations:
 
-- **Data Quality**: Collection accuracy
-- **Underground Economy**: Informal income
-- **Income Shifting**: Tax planning
-- **Geographic Coverage**: Regional gaps
-- **Source Coverage**: Income types
-- **Time Lag**: Reporting delay
-- **Revision Size**: Data updates
-- **Distribution Data**: Income spread
-- **International Flows**: Cross-border
-- **Digital Income**: New sources
+- **Survey Timing**: Collection period
+- **Response Rate**: Participation
+- **Classification**: Job types
+- **Online Coverage**: Digital jobs
+- **Multiple Listings**: Position counting
+- **Skill Match**: Requirement fit
+- **Geographic**: Regional gaps
+- **Industry**: Sector coverage
+- **Compensation**: Pay reporting
+- **Benefits**: Perks coverage
 
 ### Alternative Measures
 
 Several complementary indicators provide additional insights:
 
-- **Disposable Income**: After-tax resources
-- **Labor Income**: Employment earnings
-- **Investment Returns**: Capital gains
-- **Business Revenue**: Company income
-- **Government Transfers**: Public support
-- **Property Income**: Real estate
-- **Financial Income**: Market returns
-- **Pension Income**: Retirement funds
-- **Digital Income**: Online earnings
-- **Sharing Economy**: Platform income
+- **Help Wanted**: Traditional ads
+- **Online Postings**: Digital listings
+- **Recruiter Activity**: Agency data
+- **Industry Surveys**: Sector reports
+- **Business Plans**: Company intentions
+- **Skills Demand**: Required abilities
+- **Wage Offers**: Pay levels
+- **Benefits**: Additional perks
+- **Work Types**: Job structure
+- **Location Data**: Geographic spread
 
 ## Best Practices for Investors
 
-### Using Personal Income in Investment Decisions
+### Using Job Openings in Investment Decisions
 
-- **Monitor Trends**: Growth patterns
-- **Analyze Sources**: Income types
+- **Monitor Trends**: Opening patterns
+- **Analyze Components**: Position mix
 - **Track Changes**: Movement direction
 - **Watch Levels**: Absolute position
 - **Evaluate Context**: Economic conditions
@@ -299,7 +299,7 @@ Several complementary indicators provide additional insights:
 - **Check Markets**: Price reactions
 - **Review Research**: Expert analysis
 
-### Income Investment Strategies
+### Opening Investment Strategies
 
 - **Sector Selection**: Industry focus
 - **Asset Allocation**: Portfolio mix
@@ -316,11 +316,11 @@ Several complementary indicators provide additional insights:
 
 ### Official Sources
 
-- **Bureau of Economic Analysis**: [Personal Income](https://www.bea.gov)
+- **Labor Statistics**: [JOLTS Data](https://www.bls.gov)
 - **Federal Reserve**: [Economic Data](https://www.federalreserve.gov)
-- **Census Bureau**: [Income Statistics](https://www.census.gov)
-- **Labor Statistics**: [Employment Data](https://www.bls.gov)
-- **Tax Administration**: [Revenue Data](https://www.irs.gov)
+- **Census Bureau**: [Business Data](https://www.census.gov)
+- **Commerce Department**: [Economic Data](https://www.commerce.gov)
+- **State Agencies**: [Local Data](https://www.state.gov)
 
 ### Release Schedule and Calendar
 
@@ -334,27 +334,27 @@ Several complementary indicators provide additional insights:
 
 ### Notable Episodes
 
-- **Great Depression (1930s)**: Income collapse
-- **Post-War Boom (1950s)**: Middle class
-- **Stagflation (1970s)**: Wage pressure
-- **Reagan Era (1980s)**: Tax changes
-- **Tech Boom (1990s)**: Stock wealth
-- **Financial Crisis (2008)**: Income shock
-- **COVID-19 (2020)**: Transfer surge
-- **Digital Era (2020s)**: Online income
+- **Tech Boom (1990s)**: Digital jobs
+- **Dot-Com Bust (2000)**: Tech collapse
+- **Housing Boom (2005)**: Construction surge
+- **Financial Crisis (2008)**: Job losses
+- **Recovery (2010s)**: Gradual growth
+- **COVID-19 (2020)**: Work disruption
+- **Reopening (2021)**: Labor shortage
+- **Digital Era (2020s)**: Remote work
 
 ### Structural Changes
 
-- **Globalization**: International trade
-- **Technology**: Digital economy
-- **Demographics**: Population shifts
-- **Education**: Skills premium
-- **Services**: Sector shift
-- **Finance**: Market returns
-- **Government**: Public role
-- **Digital**: Online income
-- **Platform**: Sharing economy
-- **Remote**: Work patterns
+- **Globalization**: International jobs
+- **Technology**: Digital positions
+- **Demographics**: Worker shifts
+- **Education**: Skills needs
+- **Services**: Sector change
+- **Remote**: Work location
+- **Gig Economy**: Flexible jobs
+- **Automation**: Job displacement
+- **Green Jobs**: Climate focus
+- **AI Impact**: Work transformation
 
 ## Programming and Analysis Tools
 
@@ -369,8 +369,8 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 
-class PersonalIncomeAnalyzer:
-    """Class for downloading, analyzing and visualizing personal income data"""
+class JobOpeningsAnalyzer:
+    """Class for downloading, analyzing and visualizing job openings data"""
     
     def __init__(self, fred_api_key=None):
         """
@@ -383,94 +383,94 @@ class PersonalIncomeAnalyzer:
         if fred_api_key:
             self.fred = fred.Fred(api_key=fred_api_key)
     
-    def get_income_data(self, measure='total', start_date='1992-01-01', end_date=None):
+    def get_openings_data(self, measure='total', start_date='1992-01-01', end_date=None):
         """
-        Retrieve personal income data from FRED
+        Retrieve job openings data from FRED
         
         Parameters:
-        measure (str): Type of income data ('total', 'wages', 'investments', etc.)
+        measure (str): Type of openings data ('total', 'private', 'government', etc.)
         start_date (str): Start date in YYYY-MM-DD format
         end_date (str): End date in YYYY-MM-DD format
         
         Returns:
-        pd.DataFrame: Personal income time series data
+        pd.DataFrame: Job openings time series data
         """
         if not self.fred_api_key:
             raise ValueError("FRED API key required for data download")
             
-        # Series IDs for different income measures
+        # Series IDs for different openings measures
         series_mapping = {
-            'total': 'PI',              # Personal Income
-            'wages': 'W209RC1',         # Wage and Salary Income
-            'investments': 'PINVST',     # Investment Income
-            'transfers': 'W824RC1',     # Government Transfer Payments
-            'business': 'PROPINC'       # Proprietors' Income
+            'total': 'JTSJOL',        # Total Job Openings
+            'private': 'JTSOPN',      # Private Sector Openings
+            'government': 'JTSOGV',   # Government Openings
+            'manufacturing': 'JTSOMF', # Manufacturing Openings
+            'services': 'JTSOSV'      # Service Sector Openings
         }
         
         if measure not in series_mapping:
             raise ValueError(f"Measure '{measure}' not supported")
         
-        # Fetch income data
-        income_data = self.fred.get_series(series_mapping[measure], start_date, end_date)
-        income_df = pd.DataFrame(income_data, columns=['Personal_Income'])
-        income_df.index.name = 'Date'
+        # Fetch openings data
+        openings_data = self.fred.get_series(series_mapping[measure], start_date, end_date)
+        openings_df = pd.DataFrame(openings_data, columns=['Job_Openings'])
+        openings_df.index.name = 'Date'
         
-        return income_df
+        return openings_df
     
     def get_multiple_measures(self, measures=None, start_date='1992-01-01', end_date=None):
         """
-        Retrieve multiple income measures and combine into a single DataFrame
+        Retrieve multiple openings measures and combine into a single DataFrame
         
         Parameters:
-        measures (list): List of income measures to retrieve
+        measures (list): List of openings measures to retrieve
         start_date (str): Start date
         end_date (str): End date
         
         Returns:
-        pd.DataFrame: DataFrame with multiple income measures
+        pd.DataFrame: DataFrame with multiple openings measures
         """
         if measures is None:
             # Default to main measures
-            measures = ['total', 'wages', 'investments', 'transfers']
+            measures = ['total', 'private', 'government', 'manufacturing']
         
         # Initialize with first measure
-        result_df = self.get_income_data(measures[0], start_date, end_date)
+        result_df = self.get_openings_data(measures[0], start_date, end_date)
         result_df.columns = [measures[0]]
         
         # Add additional measures
         for measure in measures[1:]:
-            measure_df = self.get_income_data(measure, start_date, end_date)
-            result_df[measure] = measure_df['Personal_Income']
+            measure_df = self.get_openings_data(measure, start_date, end_date)
+            result_df[measure] = measure_df['Job_Openings']
         
         return result_df
     
-    def calculate_changes(self, income_data, periods=[1, 3, 12]):
+    def calculate_changes(self, openings_data, periods=[1, 3, 12]):
         """
         Calculate changes over different periods
         
         Parameters:
-        income_data (pd.DataFrame): DataFrame with income values
+        openings_data (pd.DataFrame): DataFrame with openings values
         periods (list): List of periods for calculating changes
         
         Returns:
         pd.DataFrame: Original data with changes added
         """
-        df = income_data.copy()
-        column = df.columns[0] if isinstance(df.columns, pd.Index) else 'Personal_Income'
+        df = openings_data.copy()
+        column = df.columns[0] if isinstance(df.columns, pd.Index) else 'Job_Openings'
         
         # Calculate changes for each period
         for period in periods:
             period_name = f"{period}m" if period != 12 else "YoY"
-            df[f'{period_name}_Change'] = df[column].pct_change(period) * 100
+            df[f'{period_name}_Change'] = df[column].diff(period)
         
         return df
     
-    def calculate_source_share(self, source_data, total_data, start_date='1992-01-01'):
+    def calculate_sector_share(self, sector_data, total_data, start_date='1992-01-01'):
         """
-        Calculate source share of total income
+        Calculate sector share of total openings
         
         Parameters:
-        source_data (pd.DataFrame): DataFrame with source values
+        sector_data (pd.DataFrame): DataFrame with sector values
         total_data (pd.DataFrame): DataFrame with total values
         start_date (str): Start date for analysis
         
@@ -478,31 +478,31 @@ class PersonalIncomeAnalyzer:
         dict: Share analysis results and visualization
         """
         # Extract data series
-        source_col = source_data.columns[0] if isinstance(source_data.columns, pd.Index) else 'Personal_Income'
-        total_col = total_data.columns[0] if isinstance(total_data.columns, pd.Index) else 'Total_Income'
+        sector_col = sector_data.columns[0] if isinstance(sector_data.columns, pd.Index) else 'Job_Openings'
+        total_col = total_data.columns[0] if isinstance(total_data.columns, pd.Index) else 'Total_Openings'
         
         # Create analysis DataFrame
         df = pd.DataFrame({
-            'Source': source_data[source_col],
+            'Sector': sector_data[sector_col],
             'Total': total_data[total_col]
         })
         
         # Calculate share
-        df['Share'] = (df['Source'] / df['Total']) * 100
+        df['Share'] = (df['Sector'] / df['Total']) * 100
         
         # Calculate basic statistics
         stats = df['Share'].describe()
         
         # Create visualization
         plt.figure(figsize=(14, 7))
-        plt.plot(df.index, df['Share'], 'b-', label='Source Share')
+        plt.plot(df.index, df['Share'], 'b-', label='Sector Share')
         plt.axhline(y=stats['mean'], color='r', linestyle='--', label='Mean')
         plt.fill_between(df.index, 
                         stats['mean'] - stats['std'],
                         stats['mean'] + stats['std'],
                         alpha=0.2, color='gray', label='±1 Std Dev')
         
-        plt.title('Income Source Share Analysis', fontsize=16)
+        plt.title('Job Openings Sector Share Analysis', fontsize=16)
         plt.xlabel('Date', fontsize=12)
         plt.ylabel('Share (%)', fontsize=12)
         plt.grid(True, alpha=0.3)
@@ -514,21 +514,21 @@ class PersonalIncomeAnalyzer:
             'plot': plt
         }
     
-    def decompose_income_trends(self, income_data, period=12, model='additive'):
+    def decompose_openings_trends(self, openings_data, period=12, model='additive'):
         """
-        Decompose income data into trend, seasonal, and residual components
+        Decompose openings data into trend, seasonal, and residual components
         
         Parameters:
-        income_data (pd.DataFrame): DataFrame with income data
+        openings_data (pd.DataFrame): DataFrame with openings data
         period (int): Period for seasonal component (12 for monthly data)
         model (str): Decomposition model ('additive' or 'multiplicative')
         
         Returns:
         dict: Components and plot of decomposition
         """
-        # Extract income series
-        income_col = income_data.columns[0] if isinstance(income_data.columns, pd.Index) else 'Personal_Income'
-        series = income_data[income_col].dropna()
+        # Extract openings series
+        openings_col = openings_data.columns[0] if isinstance(openings_data.columns, pd.Index) else 'Job_Openings'
+        series = openings_data[openings_col].dropna()
         
         # Perform decomposition
         decomposition = seasonal_decompose(series, model=model, period=period)
@@ -545,16 +545,16 @@ class PersonalIncomeAnalyzer:
         fig, axes = plt.subplots(4, 1, figsize=(14, 10), sharex=True)
         
         components_df['Observed'].plot(ax=axes[0], title='Observed')
-        axes[0].set_ylabel('Income')
+        axes[0].set_ylabel('Openings')
         
         components_df['Trend'].plot(ax=axes[1], title='Trend')
-        axes[1].set_ylabel('Income')
+        axes[1].set_ylabel('Openings')
         
         components_df['Seasonal'].plot(ax=axes[2], title='Seasonal')
         axes[2].set_ylabel('Factor')
         
         components_df['Residual'].plot(ax=axes[3], title='Residual')
-        axes[3].set_ylabel('Income')
+        axes[3].set_ylabel('Openings')
         
         plt.tight_layout()
         
@@ -563,12 +563,12 @@ class PersonalIncomeAnalyzer:
             'plot': fig
         }
     
-    def forecast_income(self, income_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
+    def forecast_openings(self, openings_data, periods=12, order=(1,1,1), seasonal_order=(1,1,1,12)):
         """
-        Forecast personal income using SARIMA model
+        Forecast job openings using SARIMA model
         
         Parameters:
-        income_data (pd.DataFrame): DataFrame with income data
+        openings_data (pd.DataFrame): DataFrame with openings data
         periods (int): Number of periods to forecast
         order (tuple): ARIMA order (p,d,q)
         seasonal_order (tuple): Seasonal ARIMA order (P,D,Q,s)
@@ -576,9 +576,9 @@ class PersonalIncomeAnalyzer:
         Returns:
         dict: Forecast data and visualization
         """
-        # Extract income series
-        income_col = income_data.columns[0] if isinstance(income_data.columns, pd.Index) else 'Personal_Income'
-        series = income_data[income_col].dropna()
+        # Extract openings series
+        openings_col = openings_data.columns[0] if isinstance(openings_data.columns, pd.Index) else 'Job_Openings'
+        series = openings_data[openings_col].dropna()
         
         # Fit SARIMA model
         model = SARIMAX(series, 
@@ -630,9 +630,9 @@ class PersonalIncomeAnalyzer:
         if isinstance(forecast_index, pd.DatetimeIndex):
             plt.axvspan(forecast_index[0], forecast_index[-1], alpha=0.1, color='gray')
         
-        plt.title('Personal Income: Historical and Forecast', fontsize=16)
+        plt.title('Job Openings: Historical and Forecast', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Income Level (Billions USD)', fontsize=12)
+        plt.ylabel('Openings Level (Thousands)', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend()
         
@@ -644,78 +644,78 @@ class PersonalIncomeAnalyzer:
             'plot': plt
         }
     
-    def source_analysis(self, start_date='1992-01-01'):
+    def sector_analysis(self, start_date='1992-01-01'):
         """
-        Analyze the composition of income by source
+        Analyze the composition of openings by sector
         
         Parameters:
         start_date (str): Start date for analysis
         
         Returns:
-        dict: Source analysis and visualization
+        dict: Sector analysis and visualization
         """
-        # Get income sources
-        sources = {
-            'Total': 'PI',              # Total Personal Income
-            'Wages': 'W209RC1',         # Wage and Salary Income
-            'Investments': 'PINVST',     # Investment Income
-            'Transfers': 'W824RC1',     # Government Transfers
-            'Business': 'PROPINC'       # Proprietors' Income
+        # Get openings sectors
+        sectors = {
+            'Total': 'JTSJOL',        # Total Openings
+            'Private': 'JTSOPN',      # Private Sector
+            'Government': 'JTSOGV',   # Government
+            'Manufacturing': 'JTSOMF', # Manufacturing
+            'Services': 'JTSOSV'      # Services
         }
         
-        # Fetch source data
-        source_data = pd.DataFrame()
+        # Fetch sector data
+        sector_data = pd.DataFrame()
         
-        for name, series_id in sources.items():
+        for name, series_id in sectors.items():
             try:
                 series = self.fred.get_series(series_id, start_date)
-                source_data[name] = series
+                sector_data[name] = series
             except:
                 print(f"Warning: Could not fetch {name} data")
         
         # Calculate correlations
-        correlations = source_data.corr()
+        correlations = sector_data.corr()
         
         # Create correlation heatmap
         plt.figure(figsize=(10, 8))
         sns.heatmap(correlations, annot=True, cmap='coolwarm', center=0)
-        plt.title('Correlation Matrix of Income Sources', fontsize=16)
+        plt.title('Correlation Matrix of Job Openings Sectors', fontsize=16)
         plt.tight_layout()
         
-        # Create line plot of sources
+        # Create line plot of sectors
         plt.figure(figsize=(14, 8))
-        source_data.plot(alpha=0.7)
-        plt.title('Income by Source', fontsize=16)
+        sector_data.plot(alpha=0.7)
+        plt.title('Job Openings by Sector', fontsize=16)
         plt.xlabel('Date', fontsize=12)
-        plt.ylabel('Income Level (Billions USD)', fontsize=12)
+        plt.ylabel('Openings Level (Thousands)', fontsize=12)
         plt.grid(True, alpha=0.3)
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.tight_layout()
         
         return {
-            'sources': source_data,
+            'sectors': sector_data,
             'correlations': correlations,
             'heatmap': plt.figure(figsize=(10, 8)),
             'line_plot': plt.figure(figsize=(14, 8))
         }
 
 # Example usage:
-# analyzer = PersonalIncomeAnalyzer(fred_api_key="your_api_key_here")
-# income_data = analyzer.get_income_data()
-# changes_data = analyzer.calculate_changes(income_data)
-# decomposition = analyzer.decompose_income_trends(income_data)
+# analyzer = JobOpeningsAnalyzer(fred_api_key="your_api_key_here")
+# openings_data = analyzer.get_openings_data()
+# changes_data = analyzer.calculate_changes(openings_data)
+# decomposition = analyzer.decompose_openings_trends(openings_data)
 # plt.show()
 ```
 
 ## Related Economic Indicators
 
-- [Consumer Behavior](./consumer-behavior.md)
-- [Consumer Confidence](./consumer-confidence.md)
 - [Employment Situation](./employment-situation.md)
-- [Retail Sales](./retail-sales.md)
-- [Inflation Rate](./inflation-rate.md)
-- [GDP Growth](./gdp-growth.md)
+- [Initial Claims](./initial-claims.md)
 - [Wage Growth](./wage-growth.md)
-- [Tax Revenue](./tax-revenue.md)
-- [Transfer Payments](./transfer-payments.md)
-- [Investment Returns](./investment-returns.md) 
+- [Labor Force](./labor-force.md)
+- [Business Conditions](./business-conditions.md)
+- [GDP Growth](./gdp-growth.md)
+- [Productivity](./productivity.md)
+- [Unit Labor Costs](./unit-labor-costs.md)
+- [Quit Rate](./quit-rate.md)
+- [Hiring Rate](./hiring-rate.md) 
